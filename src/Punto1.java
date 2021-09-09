@@ -20,5 +20,8 @@ public class Punto1 {
         nro1=18;
         nro2=18;
         comparar(nro1,nro2);
+        nro1=13;
+        nro2=18;
+        comparar(nro1,nro2);
     }
 }
