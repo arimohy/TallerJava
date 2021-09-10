@@ -7,7 +7,7 @@ public class Punto13 {
         System.out.println("La fecha actual es:-> "+dtf.format(LocalDateTime.now()));
 
     }
-    public static void main(String[] args) {
+    public static void main() {
         consultarfecha();
     }
 }

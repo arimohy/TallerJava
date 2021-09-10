@@ -24,7 +24,7 @@ public class Punto8 {
         }
         System.out.println("El dia "+dia.toLowerCase()+" "+respuesta);
     }
-    public static void main(String[] args) {
+    public static void main() {
         diaslaboral();
     }
 }

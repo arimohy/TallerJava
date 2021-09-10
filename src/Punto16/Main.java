@@ -12,7 +12,7 @@ public class Main {
         if(ideal==0) System.out.println("Su peso es ideal");
         if(ideal==1) System.out.println("Tiene sobrepeso");
     }
-    public static void main(String[] args) {
+    public static void main() {
         Scanner scanner=new Scanner(System.in);
         System.out.println ("Escriba el nombre de la persona :");
         String nombre=scanner.nextLine();

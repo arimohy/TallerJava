@@ -11,7 +11,7 @@ public class Punto6 {
         System.out.println(pares);
         System.out.println(impares);
     }
-    public static void main(String[] args) {
+    public static void main() {
         ParesImpares();
     }
 }

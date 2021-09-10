@@ -11,7 +11,7 @@ public class Punto4 {
         double preciofinal=precioproducto+precioproducto*IVA;
 
     }
-    public static void main(String[] args) {
+    public static void main() {
         preciofinal();
     }
 }

@@ -11,7 +11,7 @@ public class Punto7 {
         System.out.println("El numero mayor a cero es : "+nro);
 
     }
-    public static void main(String[] args) {
+    public static void main() {
         mayoracero();
     }
 }

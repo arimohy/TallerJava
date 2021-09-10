@@ -39,7 +39,7 @@ public class Punto11 {
         System.out.println("La frase tienes vocales 'o' = "+o);
         System.out.println("La frase tienes vocales 'u' = "+u);
     }
-    public static void main(String[] args) {
+    public static void main() {
         contarvocales();
     }
 }

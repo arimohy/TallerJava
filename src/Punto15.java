@@ -59,7 +59,7 @@ public class Punto15 {
 
 
     }
-    public static void main(String[] args) {
+    public static void main() {
         selecionOpcion();
     }
 

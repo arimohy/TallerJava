@@ -3,7 +3,7 @@ package Punto17;
 import java.util.ArrayList;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main() {
         Electrodomestico e1=new Electrodomestico(200,100);
         Electrodomestico e2=new Electrodomestico();
         Electrodomestico e3= new Television(60,true);

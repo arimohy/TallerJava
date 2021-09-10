@@ -20,7 +20,7 @@ public class Punto2 {
             System.out.println("El nro "+nro2+" es mayor que el nro "+nro1);
     }
 
-    public static void main(String[] args) {
+    public static void main() {
         comparar();
     }
 }

@@ -3,7 +3,7 @@ package Punto18;
 import java.util.ArrayList;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main() {
         //****
         Serie s1=new Serie("Time",5,"cienca ficcion","anonimo");
         Serie s2=new Serie();

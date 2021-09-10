@@ -9,7 +9,7 @@ public class Punto10 {
         System.out.println("La frase quedo asi:");
         System.out.println(cadena);
     }
-    public static void main(String[] args) {
+    public static void main() {
         quitarespacios();
     }
 }

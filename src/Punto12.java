@@ -38,7 +38,7 @@ public class Punto12 {
 
         }
     }
-    public static void main(String[] args) {
+    public static void main() {
         compararpalabras();
     }
 }
